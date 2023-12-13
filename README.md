@@ -1,0 +1,3 @@
+The project was done for the TCSiON RIO-125 internship.
+
+The time series forecasting project focused on analyzing and predicting sales data from 10 distinct stores using three key models: SARIMAX, HWES, and Prophet. The project involved comprehensive data preparation, model implementation, and evaluation of prediction accuracy and error terms. Visual comparisons highlighted model performance across the stores, providing valuable insights for future forecasting strategies. Challenges included ensuring data consistency and fine-tuning model parameters. The findings will inform decision-making and contribute to enhancing forecasting accuracy for the stores.
